@@ -2,7 +2,7 @@
 Team A Project Charter Git Repository
 
 
-TODO:
+TODO:\
 *Select type of project and programming language\
 *Get it approved\
 *Fill out Charter Doc and submit\

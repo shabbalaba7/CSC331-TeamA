@@ -7,3 +7,5 @@ TODO:\
 *Get it approved\
 *Fill out Charter Doc\
 *Decide who is submitting and have them submit\
+*Initial Visioning\
+*Business Analysis
